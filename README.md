@@ -1,2 +1,2 @@
 # Convolutional-Autoencoders
-For this I have build a convolutional autoencoders from scratch with keras.
+For this repo I have build a convolutional autoencoders from scratch with keras.
